@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Mushtaq</h1>
 <h3 align="center">I am a MERN developer building and maintaining web applications using the MERN stack. Proficient in both front-end and back-end development, with a passion for staying up-to-date on the latest technologies and best practices. Seeking to leverage my skills and advance my career in web development.</h3>
 
-<p align="left"> <a href="https://twitter.com/hamzamushtaq_" target="blank"><img src="https://img.shields.io/twitter/follow/hamzamushtaq_?logo=twitter&style=for-the-badge" alt="hamzamushtaq_" /></a> </p>
 
 - 🔭 I’m currently working as **Freelancer**
 
