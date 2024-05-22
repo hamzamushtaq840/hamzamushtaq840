@@ -1,0 +1,17 @@
+[
+    {
+        "type": "experience",
+        "name": "Apimio",
+        "domain": "SaaS"
+    },
+    {
+        "type": "experience",
+        "name": "Siffar",
+        "domain": "MERN"
+    },
+    {
+        "type": "experience",
+        "name": "Fiverr (Freelancing)",
+        "domain": "MERN"
+    }
+]

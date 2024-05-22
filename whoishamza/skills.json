@@ -1,0 +1,32 @@
+[
+  {
+    "type": "skills",
+    "name": "JS Frameworks",
+    "children": ["React.js", "Next.js"]
+  },
+  {
+    "type": "skills",
+    "name": "Languages",
+    "children": ["javascript", "typescript","python"]
+  },
+  {
+    "type": "skills",
+    "name": "Database",
+    "children": ["Postgres", "MongoDB", "DynamoDB", "sequelize","MySql"]
+  },
+  {
+    "type": "skills",
+    "name": "ORM / ODM",
+    "children": ["Prisma", "Mongoose", "Sequelize"]
+  },
+  {
+    "type": "skills",
+    "name": "APIs",
+    "children": ["REST", "GraphQL"]
+  },
+  {
+    "type": "skills",
+    "name": "Infra",
+    "children": ["Docker", "Compose", "Kubernetes", "Serverless", "Lambda"]
+  }
+]
